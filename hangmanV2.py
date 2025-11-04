@@ -112,11 +112,6 @@ def main():
                 current_state = generate_state(current_word, user_guess = "", state = [])
             else:
                 break
-
-
+                
 if __name__ == "__main__":
     main()
-
-
-        
-
